@@ -147,3 +147,7 @@
 2018-07-30 16:24:55,021 INFO 10000 [egg:core] dump config after load, 6ms
 2018-07-30 16:24:55,068 INFO 10000 [egg-watcher:agent] watcher start success
 2018-07-30 16:24:55,087 INFO 10000 [egg:core] dump config after ready, 7ms
+2018-07-30 16:25:10,962 INFO 4496 [egg:logger] init all loggers with options: {"dir":"C:\\github\\ruky\\logs\\ruky","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ruky-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-07-30 16:25:11,043 INFO 4496 [egg:core] dump config after load, 5ms
+2018-07-30 16:25:11,093 INFO 4496 [egg-watcher:agent] watcher start success
+2018-07-30 16:25:11,113 INFO 4496 [egg:core] dump config after ready, 6ms
